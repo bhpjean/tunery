@@ -1,1 +1,9 @@
 5125042920
+
+Wersja oprogramowania 5125042920
+Co nowego w wersji 5125042920 ?
+
+- Interfejs www do obsługi tunera poprzez sieć wifi
+- Zarządzanie bankami pamięci z serwera Github 
+- Wskaźniki :-)
+- Automatyczna aktualizacja
