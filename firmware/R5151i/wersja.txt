@@ -1,5 +1,4 @@
 5125042920
-
 Dodtepna jest nowa wersja oprogramowania Tunera Radmorek 5151i.
 Co nowego w wersji 5125042920 ? 
 - Interfejs www do obsługi tunera poprzez sieć wifi
