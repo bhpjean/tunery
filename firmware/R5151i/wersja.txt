@@ -1,3 +1,3 @@
 5125052920
 
-Dodtepna jest nowa wersja oprogramowania Tunera Radmorek 5151i. W celu zaktualizowania oprogramowania nacisnij teraz przycisk PAMIEC. Nie wylaczaj tunera ! Poczekaj aż tuner wykona aktualizacje i uruchomi sie ponownie. 
+Dostepna jest nowa wersja oprogramowania dla Twojego tunera Radmorek 5151i. W celu zaktualizowania oprogramowania nacisnij teraz przycisk PAMIEC i Poczekaj aż tuner wykona aktualizacje i uruchomi sie ponownie. Nie wylaczaj tunera !  
