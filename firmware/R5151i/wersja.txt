@@ -1,9 +1,10 @@
 5125042920
 
-Wersja oprogramowania 5125042920
-Co nowego w wersji 5125042920 ?
-
+Dodtepna jest nowa wersja oprogramowania Tunera Radmorek 5151i.
+Co nowego w wersji 5125042920 ? 
 - Interfejs www do obsługi tunera poprzez sieć wifi
-- Zarządzanie bankami pamięci z serwera Github 
+- Zarządzanie bankami pamięci. 
 - Wskaźniki :-)
-- Automatyczna aktualizacja
+- Aktualizacja oprogramowania z poziomu samego tunera zwiekszajaca poziom bezpieczenstwa.
+W celu zaktualizowania oprogramowania nacisnij teraz przycisk PAMIEC. Nie wylaczaj tunera ! 
+ Poczekaj aż tuner wykona aktualizacje i uruchomi sie ponownie. 
