@@ -1,3 +1,3 @@
-525050820
+525050822
 
-Dostepne jest nowe oprogramowanie i w celu aktualizacji do wersji 525050820 nacisnij przycisk MEMORY
+Dostepne jest nowe oprogramowanie ( poprawiono obsluge pilota ) W celu aktualizacji do wersji 525050822 nacisnij przycisk MEMORY
