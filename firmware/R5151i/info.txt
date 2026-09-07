@@ -1,1 +1,12 @@
+Co nowego w wersji 5126090322
 
+    1.  Dodana obsługa selektora 5 wejść + tuner internetowy ( autodetekcja zamontowanego selektora ) 
+        (TUNER INTERNETOWY , TUNER AM, DYSKOFON - CD, UNIWERSALNE, MAGNETOFON, TV)
+    2.  Zmieniona szata graficzna wyszukiwarki stacji w serwisie www.radio-browser.info
+    3.  Dodano wyszukiwanie po gatunku: Rock,Pop,Jazz, Classical, Electronic,Dance,House,Techno,Trance,Ambient,
+        Chillout,Lounge,Reggae,Ska,Punk,Metal,Heavy Metal,Hard Rock,Alternative,Indie,Folk,Country,Blues,Soul,
+        Funk, R&amp,Hip Hop,Rap, Oldies,80s,90s, Hits,Top 40,News,Talk. Działa o ile ktoś w opisie stacji umieścił 
+        w/w tagi. Tuner korzysta z bazy danych serwisu www.radio-browser.info
+    4.  Poprawiono wielozadaniowość i stabilność oprogramowania.
+    5.  Dodano możliwość zaprogramowania 14 stacji ulubionych pod przyciskami 1 - 7 i tzw dwuklik 8 - 14.
+    6.  Dodano Edytor stacji ulubionych wraz z listami stacji w bankach pamięci.
