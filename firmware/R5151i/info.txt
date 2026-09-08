@@ -10,3 +10,4 @@ Co nowego w wersji 5126090322
     4.  Poprawiono wielozadaniowość i stabilność oprogramowania.
     5.  Dodano możliwość zaprogramowania 14 stacji ulubionych pod przyciskami 1 - 7 i tzw dwuklik 8 - 14.
     6.  Dodano Edytor stacji ulubionych wraz z listami stacji w bankach pamięci.
+    7.  Dodano obsługę pilota TX-6 - opis pod tym linkiem - https://jeansoft.zapto.org/files/Pilot_TX6.pdf
